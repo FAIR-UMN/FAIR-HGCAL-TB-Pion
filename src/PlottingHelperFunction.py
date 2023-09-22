@@ -17,7 +17,6 @@ def line(x, slope, intercept):
 #     return m*x+c
 
 
-
 def fit_gaussian(earray, ax, dtype, energy, irow, jcol):
     # print("ax ",ax)
     # print('plotting energy = {} GeV in {}, {}'.format(energy, irow, jcol))
